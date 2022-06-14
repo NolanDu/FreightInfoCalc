@@ -179,7 +179,7 @@ public static void main(String[] args) throws Exception {
                 System.out.println("Cost/piece: $"+HQAndGPAnd20AndLCL/totalPieces);
                 break;
             }
-      
+        System.out.println((totalMasterCBM%(57+27))%57); 
         
     }
        
